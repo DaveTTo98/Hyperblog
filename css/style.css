@@ -7,10 +7,10 @@ body{
     padding: 0;
 }
 
-hr{
-    width: 200px;
-    margin: 0;
-    
+
+.cabecera{
+    background: #33A;
+    color: white;
 }
 
 .container{
