@@ -7,6 +7,12 @@ body{
     padding: 0;
 }
 
+hr{
+    width: 200px;
+    margin: 0;
+    
+}
+
 .container{
     width: 70%;
     padding: 1em;
